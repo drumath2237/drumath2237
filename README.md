@@ -1,6 +1,6 @@
 ## Skils & Curiosity
 
-See [this page](./Skils.md).
+See [this page](https://github.com/drumath2237/drumath2237/blob/master/Skils.md).
 
 ## Links
 
