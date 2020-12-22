@@ -1,14 +1,10 @@
-## Skils & Curiosity
+![wakeup](https://img.shields.io/badge/%E8%B5%B7%E5%BA%8A-failed-red)
+[![twitter](https://img.shields.io/badge/twitter-ninisan_drumath-blue)](https://twitter.com/ninisan_drumath)
+[![qiita](https://img.shields.io/badge/qiita-drumath2237-green)](https://qiita.com/drumath2237)
+[![zenn](https://img.shields.io/badge/zenn-drumath2237-blue)](https://zenn.dev/drumath2237)
+[![SpeakerDeck](https://img.shields.io/badge/speakerdeck-drumath2237-green)](https://speakerdeck.com/drumath2237)
 
-See [this page](https://github.com/drumath2237/drumath2237/blob/master/Skils.md).
+[![ninisan's github stats](https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Works
-
-工事中です...
-
-## Links
-
-- [twitter](https://twitter.com/ninisan_drumath)
-- [Qiita](https://qiita.com/drumath2237)
-- [SpeakerDeck](https://speakerdeck.com/drumath2237)
-- [YouTube](https://www.youtube.com/channel/UCcS1ZryzFkmAoY9T4tmi2pQ?view_as=subscriber)
+:sparkles: A college student who is interested in **3DCG**, **MR/AR/VR**, **Humanoid Charactor**, **VFX**.
