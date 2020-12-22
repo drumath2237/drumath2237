@@ -4,6 +4,6 @@
 [![zenn](https://img.shields.io/badge/zenn-drumath2237-blue)](https://zenn.dev/drumath2237)
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-drumath2237-green)](https://speakerdeck.com/drumath2237)
 
-[![ninisan's github stats](https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ninisan's github stats](https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 :sparkles: A college student who is interested in **3DCG**, **MR/AR/VR**, **Humanoid Charactor**, **VFX**.
