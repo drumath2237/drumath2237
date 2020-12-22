@@ -5,6 +5,5 @@
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-drumath2237-green)](https://speakerdeck.com/drumath2237)
 
 [![ninisan's github stats](https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 :sparkles: A college student who is interested in **3DCG**, **MR/AR/VR**, **Humanoid Charactor**, **VFX**.
