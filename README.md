@@ -4,8 +4,8 @@
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-drumath2237-green?logo=speakerdeck)](https://speakerdeck.com/drumath2237)
 [![Contributions](https://badgen.org/img/qiita/drumath2237/contributions?style=flat)](https://qiita.com/drumath2237)
 
-[![ninisan's github stats](https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark&count_private=true&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark&count_private=true&hide=commits"></img>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact&theme=vue-dark"></img>
 
 :sparkles: An engineer (college student) who loves Location-based AR, Unity 3D, WebAR, Babylon.js, and Azure.
 
