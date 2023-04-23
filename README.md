@@ -7,6 +7,6 @@
 <img width="53%" src="https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark&count_private=true"></img>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact&theme=vue-dark"></img>
 
-:sparkles: An engineer (college student) who loves Location-based AR, Unity 3D, WebAR, Babylon.js, and Azure.
-
-:rocket: [Project TSUin-MI](https://scrapbox.io/project-TSUin-MI/) is my personal project for showing you a future of AR Native City Life.
+:sparkles: An software engineer who loves Location-based AR, WebAR, Unity, Babylon.js, and Azure Kinect.<br />
+:rocket: [Project TSUin-MI](https://scrapbox.io/project-TSUin-MI/) is my personal project for showing you a future of AR Native City Life.<br />
+:heart: Coffee / Guitar / Cat / Wiskey
