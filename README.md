@@ -4,9 +4,8 @@
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-drumath2237-green?logo=speakerdeck)](https://speakerdeck.com/drumath2237)
 [![Contributions](https://badgen.org/img/qiita/drumath2237/contributions?style=flat)](https://qiita.com/drumath2237)
 
-<img width="53%" src="https://github-readme-stats.vercel.app/api?username=drumath2237&show_icons=true&theme=vue-dark&count_private=true"></img>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumath2237&layout=compact&theme=vue-dark"></img>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=drumath2237&theme=city_lights)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drumath2237&theme=city_lights)
 
-:sparkles: An software engineer who loves Location-based AR, WebAR, Unity, Babylon.js, and Azure Kinect.<br />
+:sparkles: A software engineer who loves Location-based AR, WebAR, Unity, Babylon.js, and Azure Kinect.<br />
 :rocket: [Project TSUin-MI](https://scrapbox.io/project-TSUin-MI/) is my personal project for showing you a future of AR Native City Life.<br />
 :heart: Coffee / Guitar / Cat / Wiskey
